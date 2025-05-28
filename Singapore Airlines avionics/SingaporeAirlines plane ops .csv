@@ -1,0 +1,9 @@
+Aircraft registration number, Aircraft model, range(Km), empty plane weight(Kg), max cargo(Kg), max takeoff weight(Kg), max fuel capacity(tonnes)
+Airbus A350-900MH, 15750, 134700, 53300, 283000, 112.6
+Airbus A350-900LH, 15750, 134700, 53300, 283000, 112.6
+Airbus A350-900ULR, 18000, 134700, 53300, 283000, 133.2
+Airbus A380-800, 14800, 366000, 65000, 569000, 258.8
+Boeing 737-800, 5556, 41413, 21319, 78220, 20.8
+Boeing 737 MAX 8, 6482, 91890, 20882, 82191, 20.6
+Boeing 777-300ER, 13649, 168560, 69853, 351533, 145.0,
+Boeing 787-10, 11723, 126274, 57277, 250000, 101.1,
